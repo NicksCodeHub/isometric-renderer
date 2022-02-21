@@ -1,0 +1,20 @@
+# Ignore all files by deafult
+*.*
+!.gitignore
+
+# Monogame and CSharp files
+!/app.manifest
+!/icon.bmp
+!/icon.ico
+!/*.csproj
+!*.cs
+
+# Assets
+!/Content/Content.mgcb
+!/Content/Graphics/*.png
+!/Content/Graphics/*.jpg
+!/Content/Fonts/*
+!/Content/Sounds/*
+!/Content/Data/*.txt
+!/Content/Data/*.json
+!/Content/Data/*.xml
