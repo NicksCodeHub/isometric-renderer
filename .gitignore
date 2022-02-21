@@ -9,6 +9,9 @@
 !/*.csproj
 !*.cs
 
+# Documentation files
+!*.md
+
 # Assets
 !/Content/Content.mgcb
 !/Content/Graphics/*.png
